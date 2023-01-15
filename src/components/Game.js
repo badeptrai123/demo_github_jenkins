@@ -140,7 +140,7 @@ const Game = () => {
       )}
 
       <button onClick={handleReset} className="reset">
-        Reset game
+        Làm mới game
       </button>
     </div>
   );
